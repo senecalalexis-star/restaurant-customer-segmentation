@@ -30,6 +30,7 @@ Identified that **41% of customers** (generating **44% of total revenue**) are u
 Generating **12% of total sales** in a concentrated 4-week window, Group 3 acts as a **'hidden gold mine.'** The combination of high upsell potential (spending variance) and a medium appetizer-to-main ratio makes them the primary target for revenue optimization.
 
 ![Upsell Potential by Customer Group](visuals/Upsell%20Potential%20by%20Customer%20Group.jpg)
+
 *(Fig 1: Dumbbell graph showing upsell potential by customer group)*
 
 ##Recommendations
