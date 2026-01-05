@@ -8,7 +8,7 @@ Read me :
 ![Project Status](https://img.shields.io/badge/Status-Completed-success)
 ![Tools](https://img.shields.io/badge/Tools-Python%20|%20SQL%20|%20PowerBI-blue)
 
-## 📄 [Download Full PDF Case Study](analysis_report.pdf)
+## 📄 [Download Full PDF Case Study](Analysis_Report.pdf)
 
 ## Executive Summary
 ****The Challenge:** The Goose Pub, a seasonal restaurant, wants to optimize their upselling strategy.
