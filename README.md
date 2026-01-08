@@ -39,7 +39,6 @@ Generating **12% of total sales** in a concentrated 4-week window, Group 3 acts 
 2.Target the Peak Window: Deploy experienced staff to **Group 3** sections specifically during Weeks **ISO 29–33** to capture the season's highest volume period.
 
 3.Operationalize the Data: Use the attached **Rapid Identification Guide** to help servers visually identify segments in real-time and apply the matching upselling protocol.
-**[View Rapid Identification Guide](Appendix/)*
 
 ---
 *View the code in the `/code` folder 
