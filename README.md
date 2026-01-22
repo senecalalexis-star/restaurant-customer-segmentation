@@ -1,21 +1,21 @@
-# restaurant-customer-segmentation
-GitHub Description : Optimizing restaurant revenue through customer segmentation. Built a custom Python ETL pipeline to parse legacy POS data (PDF to PostgreSQL) and designed an upselling strategy projected to increase seasonal revenue by 6.6%.
+# Optimizing Restaurant Revenue: A Ticket Segmentation Strategy
+GitHub Description : Optimizing restaurant revenue through customer segmentation. Built a custom Python ETL pipeline to parse legacy POS data (PDF to PostgreSQL) and designed an upselling strategy projected to increase seasonal revenue by 4%.
 
 Read me : 
-#Customer Segmentation: How to leverage upselling in restaurant with Python and SQL
+#Optimizing Restaurant Revenue: A Ticket Segmentation Strategy
 
 
 ![Project Status](https://img.shields.io/badge/Status-Completed-success)
 ![Tools](https://img.shields.io/badge/Tools-Python%20|%20SQL%20|%20PowerBI-blue)
 
-## 📄 [Download Full PDF Case Study](Analysis_Report.pdf)
+## 📄 
 
 ## Executive Summary
 ****The Challenge:** The Goose Pub, a seasonal restaurant, wants to optimize their upselling strategy.
 
 **The Solution:** I built a custom Python ETL pipeline to analyze the transactional data of summer 2025 to build a customer segmentation strategy.
 
-**The Insight:** Identified a **6% revenue growth opportunity** by targeting **41% of the customer** base with specific upselling strategies for appetizers, desserts, and premium beverages.
+**The Insight:** Identified a **4% revenue growth opportunity** by targeting **76% of the customer** base with specific upselling strategies for appetizers, main course, and premium beverages.
 
 ## Technical Implementation
 ### 1.Data Engineering (Python ETL)
@@ -25,20 +25,19 @@ Read me :
 
 ###2. The Findings 
 **Key Insights:**
-Identified that **41% of customers** (generating **44% of total revenue**) are under-monetized. Developing a targeted upsell strategy for these specific groups is projected to drive a **6.6% total revenue increase**.
+Identified that **49% of customers** (generating **33% of total revenue**) are under-monetized. Developing a targeted upsell strategy for these specific groups is projected to drive a **4% total revenue increase**.
 
-Generating **12% of total sales** in a concentrated 4-week window, Group 3 acts as a **'hidden gold mine.'** The combination of high upsell potential (spending variance) and a medium appetizer-to-main ratio makes them the primary target for revenue optimization.
+Generating **15% of total sales** in a concentrated 4-week window, Group 3 acts as a **'hidden gold mine.'** Despite the low spend variance, this concentration makes the upselling strategy very efficient.
 
 ![Upsell Potential by Customer Group](visuals/Upsell%20Potential%20by%20Customer%20Group.jpg)
 
 *(Fig 1: Dumbbell graph showing upsell potential by customer group)*
 
 ##Recommendations
-1.Focus on the "Moveable Middle": Redirect sales efforts to **Groups 2 & 3**. Data shows Group 1 has low spending elasticity, while Group 4 is already maximized.
-
-2.Target the Peak Window: Deploy experienced staff to **Group 3** sections specifically during Weeks **ISO 29–33** to capture the season's highest volume period.
-
-3.Operationalize the Data: Use the attached **Rapid Identification Guide** to help servers visually identify segments in real-time and apply the matching upselling protocol.
+**GROUP 1 :** capitalize on high elasticity by increasing service rounds to upsell premium beverages and convert appetizers into full meals.
+**Group 2 : ** Unlock value in this large segment by pushing 'shareable' upgrades—converting single drinks to pitchers and appetizers to communal main courses.
+**Group 3 : ** Leverage sharing behavior for consistent small gains, while maximizing the specific revenue surge available by increasing staff during Weeks 29–33.
+**Group 4 : ** Maximize high spending potential through confident, proactive upselling—increasing service rounds to drive drink volume and convert appetizers into full meals.
 
 ---
 *View the code in the `/code` folder 
