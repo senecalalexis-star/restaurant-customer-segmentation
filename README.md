@@ -35,9 +35,9 @@ Generating **15% of total sales** in a concentrated 4-week window, Group 3 acts 
 
 ##Recommendations
 **GROUP 1 :** capitalize on high elasticity by increasing service rounds to upsell premium beverages and convert appetizers into full meals.
-**Group 2 : ** Unlock value in this large segment by pushing 'shareable' upgrades—converting single drinks to pitchers and appetizers to communal main courses.
-**Group 3 : ** Leverage sharing behavior for consistent small gains, while maximizing the specific revenue surge available by increasing staff during Weeks 29–33.
-**Group 4 : ** Maximize high spending potential through confident, proactive upselling—increasing service rounds to drive drink volume and convert appetizers into full meals.
+**Group 2 :** Unlock value in this large segment by pushing 'shareable' upgrades—converting single drinks to pitchers and appetizers to communal main courses.
+**Group 3 :** Leverage sharing behavior for consistent small gains, while maximizing the specific revenue surge available by increasing staff during Weeks 29–33.
+**Group 4 :** Maximize high spending potential through confident, proactive upselling—increasing service rounds to drive drink volume and convert appetizers into full meals.
 
 ---
 *View the code in the `/code` folder 
