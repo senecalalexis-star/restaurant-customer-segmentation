@@ -37,6 +37,7 @@ Generating **15% of total sales** in a concentrated 4-week window, Group 3 acts 
 *(Fig 1: Dumbbell graph showing upsell potential by customer group)*
 
 ##Recommendations
+
 **GROUP 1 :** capitalize on high elasticity by increasing service rounds to upsell premium beverages and convert appetizers into full meals.
 
 **Group 2 :** Unlock value in this large segment by pushing 'shareable' upgrades—converting single drinks to pitchers and appetizers to communal main courses.
