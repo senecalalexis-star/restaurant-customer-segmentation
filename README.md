@@ -1,5 +1,4 @@
 # Optimizing Restaurant Revenue: A Ticket Segmentation Strategy
-GitHub Description : Optimizing restaurant revenue through customer segmentation. Built a custom Python ETL pipeline to parse legacy POS data (PDF to PostgreSQL) and designed an upselling strategy projected to increase seasonal revenue by 4%.
 
 Read me : 
 #Optimizing Restaurant Revenue: A Ticket Segmentation Strategy
