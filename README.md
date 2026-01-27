@@ -24,6 +24,7 @@ Read me :
 **[View ETL Pipeline Documentation](code/)*
 
 ###2. The Findings 
+
 **Key Insights:**
 Identified that **49% of customers** (generating **33% of total revenue**) are under-monetized. Developing a targeted upsell strategy for these specific groups is projected to drive a **4% total revenue increase**.
 
