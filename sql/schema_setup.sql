@@ -1,5 +1,5 @@
 -- DATABASE SCHEMA SETUP
--- Project: Rain Effect Analysis
+-- Project: restaurant customer segmentatiom
 -- Database: PostgreSQL
 
 -- ==========================================
@@ -150,3 +150,5 @@ CREATE TABLE IF NOT EXISTS methode_paiement_sales (
     CONSTRAINT fk_payment_week FOREIGN KEY (week_id)
         REFERENCES week (week_id)
 );
+
+
